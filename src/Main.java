@@ -26,7 +26,7 @@ public class Main {
         //String lytis, long asmensKodas, String vardas, String pavarde, int amzius,double svoris, double ugis,String plaukuSpalva)
         Zmogus zmogus = new Zmogus();
         zmogus.setVardas("Arnas");
-        zmogus.setPavarde("Baravykas");
+        zmogus.setPavarde("Baravykas1");
         zmogus.setAmzius(22);
         zmogus.setLytis("Vyras");
         zmogus.setSvoris(88.2);
